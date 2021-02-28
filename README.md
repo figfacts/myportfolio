@@ -9,6 +9,12 @@ This is a little peak into my portfolio of projects I have completed or that are
 To view my Portfolio webpage, check out [My Portfolio Webpage](https://figfacts.github.io/myportfolio/).
 To view my repository, check out [My repository](https://github.com/figfacts/myportfolio).
 
+## Credits
+[freeCodeCamp Youtube Channel
+]
+Thank you to freeCodeCamp, as I referenced their videos to help create my portfolio template. To view their channel, check out [freeCodeCamp YouTube Channel](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ).
+
+
 ## License
 
 Creative Commons Legal Code
