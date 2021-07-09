@@ -62,7 +62,7 @@ img {
 
 :focus { /* helps with clicking tab to focus */
     outline: 3px solid var(--clr-accent);
-    outline offset: 3px;
+    outline-offset: 3px;
 }
 
 
@@ -274,7 +274,7 @@ header {
 
     .section__subtitle--intro {
         align-self: start;
-        grid-column": -1 / 1;
+        grid-column: -1 / 1;
         grid-row: 2;
         text-align: right;
         position: relative;
@@ -289,7 +289,7 @@ header {
     background-color: var(--clr-dark);
     /* NOTE: INSERT IMAGE  */
     /* background-image: url(..img/services-bg.jpg);  I didn't use a background image yet*/
-    background size: cover;
+    background-size: cover;
     /* background-blend-mode: multiply;  */
     color: var(--clr-light);
     text-align: center;
